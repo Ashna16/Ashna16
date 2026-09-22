@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Product ideas: If I were a PM">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E3EFFC"/><stop offset="1" stop-color="#CFE3F9"/></linearGradient><clipPath id="c"><rect width="1200" height="96" rx="20"/></clipPath></defs>
-  <g clip-path="url(#c)"><rect width="1200" height="96" fill="url(#g)"/>
-  <circle cx="1140" cy="10" r="70" fill="none" stroke="#2F7BE0" stroke-opacity=".3" stroke-width="2"/>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D6E9FB"/><stop offset="1" stop-color="#B9D7F6"/></linearGradient><clipPath id="c"><rect width="1200" height="96" rx="20"/></clipPath></defs>
+  <g clip-path="url(#c)"><rect width="1200" height="96" fill="url(#g)"/><g transform="translate(1080,-8) rotate(-6) scale(0.6875)" fill="none" stroke="#1557B8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity=".22">
+<path d="M24 66c8 0 8-14 16-14s8 24 16 24 8-32 16-32 8 30 16 30 8-18 16-18 8 10 16 10"/>
+<path d="M104 26c-8 0-14 6-14 14 0 10 14 24 14 24s14-14 14-24c0-8-6-14-14-14z"/><circle cx="104" cy="40" r="4"/></g>
   <text x="36" y="44" font-family="'Plus Jakarta Sans', Manrope, Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#0F2A44" letter-spacing="-.5">Product ideas: If I were a PM</text>
-  <text x="36" y="70" font-family="'Plus Jakarta Sans', Manrope, Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#4A5C70">A feature idea for a product I use every day, built as a prototype and explained in a short video.</text></g>
+  <text x="36" y="70" font-family="'Plus Jakarta Sans', Manrope, Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#3E5570">A feature idea for a product I use every day, built as a prototype and explained in a short video.</text></g>
 </svg>

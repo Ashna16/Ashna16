@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Hi, I'm Ashna Parekh. Sr Business Analyst, Product Management, Strategy and Operations.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3F8FF"/><stop offset="1" stop-color="#BFDBF7"/></linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6"><stop offset="0" stop-color="#5AA8F0" stop-opacity=".55"/><stop offset="1" stop-color="#5AA8F0" stop-opacity="0"/></radialGradient>
+    <clipPath id="r"><rect width="1200" height="340" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="340" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#glow)"/>
+    <g transform="translate(760,40) rotate(-8) scale(0.9375)" fill="none" stroke="#1557B8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity=".16">
+<path d="M64 20c-14 0-24 10-24 24 0 18 24 44 24 44s24-26 24-44c0-14-10-24-24-24z"/><circle cx="64" cy="44" r="8"/>
+<path d="M88 92c10-2 18-8 24-16 6-8 14-12 24-12" stroke-dasharray="3 6"/>
+<path d="M124 56l8 8-8 8"/><path d="M28 100h104"/></g><g transform="translate(930,150) rotate(6) scale(0.8125)" fill="none" stroke="#1557B8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity=".16">
+<rect x="30" y="30" width="100" height="62" rx="12"/><path d="M72 48v26l22-13z"/>
+<path d="M44 106l-8 6 8 6M58 118l6-24M116 106l8 6-8 6"/></g><g transform="translate(1060,20) rotate(10) scale(0.75)" fill="none" stroke="#1557B8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity=".16">
+<path d="M24 66c8 0 8-14 16-14s8 24 16 24 8-32 16-32 8 30 16 30 8-18 16-18 8 10 16 10"/>
+<path d="M104 26c-8 0-14 6-14 14 0 10 14 24 14 24s14-14 14-24c0-8-6-14-14-14z"/><circle cx="104" cy="40" r="4"/></g><g transform="translate(1070,190) rotate(-6) scale(0.75)" fill="none" stroke="#1557B8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity=".16">
+<rect x="34" y="24" width="56" height="74" rx="6"/><path d="M46 42h32M46 54h32M46 66h20"/>
+<path d="M96 76l38-22-16 40-8-14z"/><path d="M118 80l-6 8"/>
+<path d="M104 30l3-6 3 6-3 2zM122 22l2-4 2 4-2 2z"/></g><g transform="translate(860,230) rotate(4) scale(0.6875)" fill="none" stroke="#1557B8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity=".16">
+<path d="M28 96h104M28 96V28"/><path d="M40 84l20-22 18 12 22-30 22 10"/>
+<circle cx="60" cy="62" r="3" fill="currentColor"/><circle cx="100" cy="44" r="3" fill="currentColor"/></g>
+    <text x="72" y="118" font-family="'Plus Jakarta Sans', Manrope, Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#0F2A44" letter-spacing="-1.5">Hi, I’m</text>
+    <text x="72" y="184" font-family="'Plus Jakarta Sans', Manrope, Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#1E6FE0" letter-spacing="-1.5">Ashna Parekh.</text>
+    <text x="72" y="228" font-family="'Plus Jakarta Sans', Manrope, Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#0F2A44">Sr Business Analyst  ·  Product Management  ·  Strategy &amp; Operations</text>
+    <text x="72" y="258" font-family="'Plus Jakarta Sans', Manrope, Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#3E5570">Based in San Francisco. Credit and risk platforms from zero to launch at RBC Capital Markets. AI products built end to end.</text>
+    <g transform="translate(72,282)"><rect width="196" height="40" rx="20" fill="#1E6FE0"/><text x="98" y="25" text-anchor="middle" font-family="'Plus Jakarta Sans', Manrope, Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#fff">ashna16.github.io  →</text></g>
+  </g>
+</svg>
