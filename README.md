@@ -14,9 +14,6 @@
   <img src="stats.svg" alt="On GitHub: repositories, projects built in 2026, hackathon wins, languages" width="600">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashna16&hide_border=true&background=FFF8F3&ring=E8845B&fire=D46A40&currStreakLabel=D46A40&sideLabels=5A544E&currStreakNum=1E1B18&sideNums=1E1B18&dates=8F8781&stroke=F3E6DC" alt="Contribution streak" width="600">
-</p>
-<p align="center">
   <img src="https://ghchart.rshah.org/E8845B/Ashna16" alt="Contribution chart" width="720">
 </p>
 
