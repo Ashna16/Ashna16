@@ -11,9 +11,6 @@
 <br>
 
 <p align="center">
-  <img src="stats.svg" alt="On GitHub: repositories, projects built in 2026, hackathon wins, languages" width="600">
-</p>
-<p align="center">
   <img src="https://ghchart.rshah.org/E8845B/Ashna16" alt="Contribution chart" width="720">
 </p>
 
