@@ -11,11 +11,13 @@
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashna16&show_icons=true&hide_border=true&bg_color=FFF8F3&title_color=D46A40&text_color=5A544E&icon_color=E8845B&ring_color=E8845B&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashna16&layout=compact&hide_border=true&bg_color=FFF8F3&title_color=D46A40&text_color=5A544E&langs_count=6" alt="Top languages">
+  <img src="stats.svg" alt="On GitHub: repositories, projects built in 2026, hackathon wins, languages" width="600">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashna16&bg_color=FFF8F3&color=5A544E&line=E8845B&point=D46A40&area=true&area_color=FCE4D8&hide_border=true&hide_title=true" alt="Contribution graph" width="100%">
+  <img src="https://streak-stats.demolab.com?user=Ashna16&hide_border=true&background=FFF8F3&ring=E8845B&fire=D46A40&currStreakLabel=D46A40&sideLabels=5A544E&currStreakNum=1E1B18&sideNums=1E1B18&dates=8F8781&stroke=F3E6DC" alt="Contribution streak" width="600">
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/E8845B/Ashna16" alt="Contribution chart" width="720">
 </p>
 
 <br>
