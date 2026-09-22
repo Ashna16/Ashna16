@@ -1,6 +1,6 @@
 <a href="https://ashna16.github.io/"><img src="banner-v6.svg" alt="Hi, I'm Ashna Parekh. Sr Business Analyst, Product Management, Strategy and Operations." width="100%"></a>
 
-<p align="center"><a href="https://ashna16.github.io/"><img src="b2/portfolio.svg" alt="portfolio"></a> <a href="https://www.linkedin.com/in/ashna-parekh-50b025110/"><img src="b2/linkedin.svg" alt="linkedin"></a> <a href="https://www.youtube.com/@BuildWithAshna"><img src="b2/youtube.svg" alt="youtube"></a> <a href="https://ashna16.github.io/assets/Ashna_Parekh_Resume.pdf"><img src="b2/resume.svg" alt="resume"></a> <a href="mailto:ashna.parekh1998@gmail.com"><img src="b2/email.svg" alt="email"></a></p>
+<p align="center"><a href="https://ashna16.github.io/"><img src="b2/portfolio.svg" alt="portfolio"></a> <a href="https://www.linkedin.com/in/ashna-parekh-50b025110/"><img src="b2/linkedin.svg" alt="linkedin"></a> <a href="https://www.youtube.com/@BuildWithAshna"><img src="b2/youtube2.svg" alt="youtube"></a> <a href="https://ashna16.github.io/assets/Ashna_Parekh_Resume.pdf"><img src="b2/resume.svg" alt="resume"></a> <a href="mailto:ashna.parekh1998@gmail.com"><img src="b2/email.svg" alt="email"></a></p>
 
 <br>
 
