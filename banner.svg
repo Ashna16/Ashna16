@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Ashna Parekh. I take open problems and ship them as products.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F1EA"/>
+      <stop offset="1" stop-color="#EDE4D9"/>
+    </linearGradient>
+    <linearGradient id="blob" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F1DFD3"/>
+      <stop offset="1" stop-color="#E8CDB9"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="380" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <circle cx="1030" cy="90" r="220" fill="url(#blob)" opacity=".9"/>
+    <circle cx="1120" cy="330" r="120" fill="#1C1A18" opacity=".05"/>
+    <g fill="none" stroke="#1C1A18" stroke-opacity=".08">
+      <line x1="72" y1="0" x2="72" y2="380"/>
+      <line x1="0" y1="308" x2="1200" y2="308"/>
+    </g>
+    <circle cx="72" cy="72" r="5" fill="#B5613F"/>
+    <text x="96" y="79" font-family="Manrope, Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#8C857D">SENIOR BUSINESS ANALYST · STRATEGY &amp; OPERATIONS · SAN FRANCISCO</text>
+    <text x="72" y="170" font-family="Fraunces, Iowan Old Style, Georgia, 'Times New Roman', serif" font-size="64" fill="#1C1A18" letter-spacing="-1">I take open problems</text>
+    <text x="72" y="244" font-family="Fraunces, Iowan Old Style, Georgia, 'Times New Roman', serif" font-size="64" fill="#1C1A18" letter-spacing="-1">and <tspan font-style="italic" fill="#B5613F">ship them</tspan> as products.</text>
+    <text x="72" y="345" font-family="Manrope, Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#57514B">Three years launching credit and risk platforms at RBC Capital Markets. Seven hackathon wins in five months building AI agents.</text>
+    <g transform="translate(900,300)">
+      <rect x="0" y="0" width="228" height="46" rx="23" fill="#1C1A18"/>
+      <text x="114" y="29" text-anchor="middle" font-family="Manrope, Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F4EFE8">ashna16.github.io  →</text>
+    </g>
+  </g>
+</svg>
