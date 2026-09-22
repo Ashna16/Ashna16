@@ -6,7 +6,7 @@
 
 <img src="band-ideas.svg" alt="Product ideas: If I were a PM" width="100%">
 
-| Project | In two lines | |
+| Project | Description | |
 |:--|:--|:--|
 | **Gordón for DoorDash** <sub>★ 1st place</sub> | Merchant inventory that promotes dishes before ingredients expire and switches items off before they stock out.<br><sub>Nexla · Zero.xyz · Pomerium · OpenAI</sub> | <a href="https://www.youtube.com/watch?v=QU3WXcDbqiU"><img src="b3/demo.svg" alt="demo"></a> <a href="https://github.com/Ashna16/Doordash_gordan"><img src="b3/code2.svg" alt="code"></a> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7485734273812164608/"><img src="b3/post.svg" alt="post"></a> <a href="https://ashna16.github.io/posts/doordash-merchant-inventory.html"><img src="b3/case.svg" alt="case"></a> |
 | **YouTube Learning Sandbox** | Pause a coding tutorial and practice the code right there, with hints generated from the video.<br><sub>Monaco · Piston · YouTube IFrame API · OpenAI</sub> | <a href="https://www.youtube.com/watch?v=GNi1rW8z9PU"><img src="b3/demo.svg" alt="demo"></a> <a href="https://github.com/Ashna16/Youtube_Learning-Sandbox"><img src="b3/code2.svg" alt="code"></a> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7481797903800328192/"><img src="b3/post.svg" alt="post"></a> <a href="https://ashna16.github.io/posts/youtube-learning-sandbox.html"><img src="b3/case.svg" alt="case"></a> |
@@ -21,7 +21,7 @@
 
 <img src="band-agents.svg" alt="Automated workflows and AI agents" width="100%">
 
-| Project | In two lines | |
+| Project | Description | |
 |:--|:--|:--|
 | **Handoff** <sub>★ 1st place · 3 awards</sub> | Offboarding agent. Maps a leaving engineer's work, interviews them, and runs the handover in Jira and Slack.<br><sub>FalkorDB · LaserData · RocketRide · Guild.ai</sub> | <a href="https://youtu.be/gyzEk3VCKyg"><img src="b3/demo.svg" alt="demo"></a> <a href="https://github.com/Ashna16/HandOff_Memory-Layer-for-when-your-employee-quits"><img src="b3/code2.svg" alt="code"></a> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7490561674958172160/"><img src="b3/post.svg" alt="post"></a> |
 | **Argus** <sub>★ 1st place</sub> | QA agent. Give it a URL, it tests the product from its docs, clips the exact failure on video, files the ticket.<br><sub>Senso · Replay · Guild · Jira · Playwright</sub> | <a href="https://www.youtube.com/watch?v=ybS23YwBhHQ"><img src="b3/demo.svg" alt="demo"></a> <a href="https://github.com/Ashna16/Argus"><img src="b3/code2.svg" alt="code"></a> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7486852658482511872/"><img src="b3/post.svg" alt="post"></a> |
